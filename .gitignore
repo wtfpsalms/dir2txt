@@ -1,0 +1,17 @@
+# Source files
+*.py
+*.iss
+*.bat
+
+# Build files
+build/
+dist/
+__pycache__/
+*.spec
+
+# Keep only
+!DirectoryStructureGeneratorSetup.exe
+
+# Development files
+*.log
+*.tmp
