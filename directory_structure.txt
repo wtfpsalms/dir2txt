@@ -1,7 +1,0 @@
-Generated on: 2025-03-02 18:52:09
-
-├── dir2txt/
-│   ├── add_to_context_menu.reg (.reg)
-│   ├── dir2txt.bat (.bat)
-│   ├── directory_structure.txt (.txt)
-│   ├── main.py (.py)
