@@ -1,17 +1,29 @@
-# Source files
-*.py
-*.iss
-*.bat
-
-# Build files
+# Build directories
 build/
 dist/
+Output/
 __pycache__/
-*.spec
-
-# Keep only
-!DirectoryStructureGeneratorSetup.exe
 
 # Development files
+*.spec
+*.bat
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Source files (closed source)
+*.py
+*.iss
+
+# Keep asset files
+!assets/
+
+# Temporary files
 *.log
 *.tmp
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/

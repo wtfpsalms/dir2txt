@@ -1,6 +1,6 @@
 # dir2txt
 
-A Windows utility that adds a convenient right-click menu option to generate directory structure documentation. Simply right-click any folder and instantly get both a text file and console view of its complete structure.
+A Windows utility that adds right-click menu integration for generating directory structure documentation. Simply right-click any folder to create a text file of its structure with an ASCII tree preview.
 
 ## Features
 
@@ -12,19 +12,23 @@ A Windows utility that adds a convenient right-click menu option to generate dir
 - 👁️ Smart handling of hidden files
 - 📊 Built-in depth control for large directories
 - ⚡ Lightweight and fast
-- 🛡️ No dependencies required
+- 🎨 Professional icon integration
+
+## Latest Version: v1.0.1
+- Added custom application icons
+- Enhanced visual integration with Windows
 
 ## Installation
 
-1. Download `dir2txt.exe` from the [Releases](../../releases) page
+1. Download `dir2txt_setup.exe` from the [Releases](../../releases) page
 2. Run the installer
 3. Follow the installation wizard
-4. Done! Right-click any folder to use the tool
+4. Done! Look for the dir2txt icon when you right-click any folder
 
 ## Usage
 
 1. Right-click any folder or empty space in Windows Explorer
-2. Select "Generate Directory Structure" from the context menu
+2. Select "Generate Directory Structure" from the context menu (look for the dir2txt icon)
 3. Two views are automatically generated:
    - A `directory_structure.txt` file in the selected folder
    - An instant ASCII tree preview in the console
