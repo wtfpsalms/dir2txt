@@ -1,4 +1,4 @@
-# Directory Structure Generator
+# dir2exe
 
 A Windows utility that adds a convenient right-click menu option to generate directory structure documentation. Simply right-click any folder and instantly get both a text file and console view of its complete structure.
 
@@ -16,7 +16,7 @@ A Windows utility that adds a convenient right-click menu option to generate dir
 
 ## Installation
 
-1. Download `DirectoryStructureGeneratorSetup.exe` from the [Releases](../../releases) page
+1. Download `dir2exe.exe` from the [Releases](../../releases) page
 2. Run the installer
 3. Follow the installation wizard
 4. Done! Right-click any folder to use the tool
